@@ -1,0 +1,15 @@
+body{
+    background-color: #bdc3c7;
+}
+.postwidth{
+    width: 35rem;
+}
+.space {
+    height: 100px;
+    /* background-color: lightgreen; */
+    /* margin-top: 120px; */
+}
+.changeview{
+    height: 100px;
+    /* background-color: khaki; */
+}
